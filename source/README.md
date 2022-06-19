@@ -1,1 +1,6 @@
-Add your source code to this directory. Please don't rename this directory.
+# smart-mobility
+Beckn-enabled smart mobility
+
+Demo Link : http://20.51.187.121:7001
+API Documentation Link : http://20.51.187.121:7001/redoc
+Presentation and Video Link https://www.dropbox.com/sh/gwfkfle6vkohf30/AABxGXNgFRZfozM0nKBd0EZIa?dl=0
